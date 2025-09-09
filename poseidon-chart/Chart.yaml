@@ -1,0 +1,6 @@
+apiVersion: v2
+name: poseidon
+description: A cloud-native demo app Helm chart (Flask + CI/CD pipeline)
+type: application
+version: 0.1.0
+appVersion: "1.0"
