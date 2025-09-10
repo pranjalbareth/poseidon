@@ -49,3 +49,6 @@ override.tf.json
 .DS_Store
 Thumbs.db
 argocd-repo-creds.yaml
+
+app/node_modules/
+app/package-lock.json
